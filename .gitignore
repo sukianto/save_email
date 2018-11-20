@@ -1,0 +1,9 @@
+/m_venv
+local_settings.py
+*.pyc
+*.db
+.project
+.settings/
+.pydevproject
+.idea/
+/.vscode
